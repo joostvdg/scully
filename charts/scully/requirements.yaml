@@ -1,5 +1,5 @@
 dependencies:
 - alias: mulder
-  name: jx-workshop/mulder
-  repository: http://chartmuseum.jx.35.231.11.119.nip.io 
+  name: mulder
+  repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.17
